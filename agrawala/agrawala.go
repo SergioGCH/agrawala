@@ -11,7 +11,7 @@ import (
 	"fmt"
 	gv "github.com/DistributedClocks/GoVector/govec"
 	"math"
-	ms "messagesystem"
+	ms "github.com/SergioGCH/agrawala/tree/main/messagesystem"
 	"strconv"
 )
 
